@@ -1,11 +1,11 @@
-Literalura
-📚 Sobre o projeto
+# Literalura
+## 📚  Sobre o projeto
 
 Literalura é uma aplicação desenvolvida em Java com Spring Boot que permite criar e explorar um catálogo de livros usando a API Gutendex — um serviço que fornece dados de milhares de livros. Os usuários podem buscar livros pela API, salvar no banco de dados e consultar informações diretamente pelo console. 
 GitHub
 +1
 
-🚀 Funcionalidades
+## 🚀 Funcionalidades
 
 🔎 Buscar livros pela API Gutendex por título. 
 GitHub
@@ -21,7 +21,7 @@ GitHub
 
 ⚠️ Observação: Funcionalidades podem variar conforme a implementação no código.
 
-🛠️ Tecnologias
+## 🛠️ Tecnologias
 
 Java
 
@@ -32,14 +32,5 @@ Spring Data JPA
 PostgreSQL
 
 API Gutendex 
+
 GitHub
-
-📦 Pré-requisitos
-
-Antes de rodar o projeto, você precisa ter instalado:
-
-Java 17+ (ou versão compatível com o projeto)
-
-Maven
-
-PostgreSQL
